@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="03-B" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="AoC2020" />
+    <working_directory value="$PROJECT_DIR$/03" />
+    <kind value="FILE" />
+    <filePath value="$PROJECT_DIR$/03/B.go" />
+    <directory value="$PROJECT_DIR$" />
+    <output_directory value="$PROJECT_DIR$/03" />
+    <method v="2" />
+  </configuration>
+</component>

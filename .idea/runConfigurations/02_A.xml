@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="A" type="ShConfigurationType">
+  <configuration default="false" name="02-A" type="ShConfigurationType">
     <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
     <option name="SCRIPT_PATH" value="$PROJECT_DIR$/02/A.scala" />
     <option name="SCRIPT_OPTIONS" value="" />
@@ -8,8 +8,6 @@
     <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
     <option name="INTERPRETER_PATH" value="/usr/bin/scala" />
     <option name="INTERPRETER_OPTIONS" value="" />
-    <option name="EXECUTE_IN_TERMINAL" value="false" />
-    <envs />
     <method v="2" />
   </configuration>
 </component>
