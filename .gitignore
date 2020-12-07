@@ -1,3 +1,6 @@
 /**/??_?
 /**/target/
 /**/Cargo.lock
+/**/*.lock
+/**/.stack-work
+/out
