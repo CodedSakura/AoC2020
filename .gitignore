@@ -4,3 +4,6 @@
 /**/*.lock
 /**/.stack-work
 /out
+/_Deparsed_XSubs.pm
+/**/lib
+/**/cmake-build-debug

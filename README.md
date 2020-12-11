@@ -1,5 +1,5 @@
 Languages used so far:
-- Day 01: Python3 (will mby rewrite to Haskell)
+- Day 01: Haskell
 - Day 02: Scala
 - Day 03: Go
 - Day 04: Ruby
@@ -22,3 +22,6 @@ Leaving for the end:
 - [ ] C++
 - [ ] Java
 - [ ] JavaScript
+- [ ] Python
+
+5 languages will be reused
