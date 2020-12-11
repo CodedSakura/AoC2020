@@ -9,3 +9,16 @@ Languages used so far:
 - Day 08: R
 - Day 09: Perl
 - Day 10: Groovy
+- Day 11: Clojure
+
+Planned langs:
+- [ ] Lisp
+- [ ] Prolog 
+- [ ] PHP
+
+Leaving for the end:
+- [ ] C#
+- [ ] Lua
+- [ ] C++
+- [ ] Java
+- [ ] JavaScript
