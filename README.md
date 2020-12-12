@@ -26,5 +26,5 @@ Leaving for the end:
 - Lua
 - C++
 - Java
-- JavaScript
+- JavaScript / TypeScript
 - Python
