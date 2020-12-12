@@ -10,18 +10,17 @@ Languages used so far:
 - Day 09: Perl
 - Day 10: Groovy
 - Day 11: Clojure
+- Day 12: Common Lisp
 
 Planned langs:
-- [ ] Lisp
-- [ ] Prolog 
-- [ ] PHP
+- PHP
 
 Leaving for the end:
-- [ ] C#
-- [ ] Lua
-- [ ] C++
-- [ ] Java
-- [ ] JavaScript
-- [ ] Python
+- C#
+- Lua
+- C++
+- Java
+- JavaScript
+- Python
 
-5 languages will be reused
+6 languages will be reused
