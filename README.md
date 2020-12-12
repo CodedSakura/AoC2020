@@ -13,14 +13,18 @@ Languages used so far:
 - Day 12: Common Lisp
 
 Planned langs:
+- Smalltalk
+- Elrang
+- Elyxir
+- D
+- Dart
 - PHP
+- C#
+- Bash
 
 Leaving for the end:
-- C#
 - Lua
 - C++
 - Java
 - JavaScript
 - Python
-
-6 languages will be reused
