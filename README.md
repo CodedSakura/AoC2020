@@ -11,11 +11,11 @@ Languages used so far:
 - Day 10: Groovy
 - Day 11: Clojure
 - Day 12: Common Lisp
+- Day 13: Pharo SmallTalk
 
 Planned langs:
-- Smalltalk
 - Elrang
-- Elyxir
+- Elixir
 - D
 - Dart
 - PHP
