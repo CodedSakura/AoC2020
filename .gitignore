@@ -1,9 +1,11 @@
 /**/??_?
 /**/target/
 /**/Cargo.lock
-/**/*.lock
+*.lock
 /**/.stack-work
 /out
 /_Deparsed_XSubs.pm
 /**/lib
 /**/cmake-build-debug
+*.dump
+out

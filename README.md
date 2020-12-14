@@ -12,9 +12,9 @@ Languages used so far:
 - Day 11: Clojure
 - Day 12: Common Lisp
 - Day 13: Pharo SmallTalk
+- Day 14: Erlang (escript)
 
 Planned langs:
-- Elrang
 - Elixir
 - D
 - Dart
