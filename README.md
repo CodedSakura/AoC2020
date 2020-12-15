@@ -13,9 +13,9 @@ Languages used so far:
 - Day 12: Common Lisp
 - Day 13: Pharo SmallTalk
 - Day 14: Erlang (escript)
+- Day 15: Elixir
 
 Planned langs:
-- Elixir
 - D
 - Dart
 - PHP

@@ -16,7 +16,7 @@
       <excludeFolder url="file://$MODULE_DIR$/06/target" />
       <excludeFolder url="file://$MODULE_DIR$/05/cmake-build-debug" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.8 (venv)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="KotlinJavaRuntime (2)" level="project" />
   </component>
