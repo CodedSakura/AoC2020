@@ -17,13 +17,13 @@ Languages used so far:
 |  13 | Pharo SmallTalk   |   5/10 | running it was interesting... i did everything in Pharo, which is a _VM?_ for SmallTalk, and i wrote everything in it's sandbox, copied it into a file via sublime 3 |
 |  14 | Erlang (escript)  |   5/10 | eh, lot's of recursion, etc |
 |  15 | Elixir            |   8/10 | quite a nice language, imo, was super easy to get going in it |
+|  16 | Bash              |   7/10 | slow |
 
 Planned langs:
 - D
 - Dart
 - PHP
 - C#
-- Bash
 
 Leaving for the end:
 - Lua
