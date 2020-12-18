@@ -18,10 +18,10 @@ Languages used so far:
 |  14 | Erlang (escript)  |   5/10 | eh, lot's of recursion, etc |
 |  15 | Elixir            |   8/10 | quite a nice language, imo, was super easy to get going in it |
 |  16 | Bash              |   7/10 | slow |
-|  17 | D                 |   -    | _(rating & comment coming tomorrow)_ |
+|  17 | D                 |   7/10 |  feels like Java + C++, with a grain of something i can't put my finger on |
+|  18 | Dart              |   -    | _(rating & comment coming tomorrow)_ |
 
 Planned langs:
-- Dart
 - PHP
 - C#
 
