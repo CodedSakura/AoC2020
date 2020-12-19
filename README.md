@@ -19,10 +19,10 @@ Languages used so far:
 |  15 | Elixir            |   8/10 | quite a nice language, imo, was super easy to get going in it |
 |  16 | Bash              |   7/10 | slow |
 |  17 | D                 |   7/10 |  feels like Java + C++, with a grain of something i can't put my finger on |
-|  18 | Dart              |   -    | _(rating & comment coming tomorrow)_ |
+|  18 | Dart              |   9/10 | the syntax is very modern (probably cause it's made by google), and the typing is interesting: you don't have to specify types most of the time, but everything feels strictly typed |
+|  19 | PHP               |   -    | _(rating & comment coming tomorrow)_ |
 
 Planned langs:
-- PHP
 - C#
 
 Leaving for the end:
