@@ -1,4 +1,4 @@
-Languages used so far:
+Languages used so far:  
 
 | Day | Language          | Rating | Comment |
 | ---:| ----------------- |:------:| ------- |
@@ -20,12 +20,11 @@ Languages used so far:
 |  16 | Bash              |   7/10 | slow |
 |  17 | D                 |   7/10 |  feels like Java + C++, with a grain of something i can't put my finger on |
 |  18 | Dart              |   9/10 | the syntax is very modern (probably cause it's made by google), and the typing is interesting: you don't have to specify types most of the time, but everything feels strictly typed |
-|  19 | PHP               |   -    | _(rating & comment coming tomorrow)_ |
+|  19 | PHP               |   4/10 | would be lower if it didn't have recursive regex |
+|  20 | C#                |   -    | _(rating & comment coming tomorrow)_ |
+<small>These ratings are mostly subjective, and sometimes influenced by that day's puzzle.</small>
 
-Planned langs:
-- C#
-
-Leaving for the end:
+Left:
 - Lua
 - C++
 - Java
