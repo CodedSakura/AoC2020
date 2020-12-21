@@ -21,11 +21,12 @@ Languages used so far:
 |  17 | D                 |   7/10 |  feels like Java + C++, with a grain of something i can't put my finger on |
 |  18 | Dart              |   9/10 | the syntax is very modern (probably cause it's made by google), and the typing is interesting: you don't have to specify types most of the time, but everything feels strictly typed |
 |  19 | PHP               |   4/10 | would be lower if it didn't have recursive regex |
-|  20 | C#                |   -    | _(rating & comment coming tomorrow)_ |
+|  20 | C#                |   7/10 | hate that Rider, the JB C# IDE, has a really Visual Studio feel; i will deduct points for [weird naming](https://stackoverflow.com/a/13895253/8672525) |
+|  21 | Lua               |   -    | _(rating & comment coming tomorrow)_ |
+
 <small>These ratings are mostly subjective, and sometimes influenced by that day's puzzle.</small>
 
 Left:
-- Lua
 - C++
 - Java
 - JavaScript / TypeScript
